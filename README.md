@@ -7,7 +7,7 @@
 <div class="ctf" style="img {
             display: block;
             margin: 20px auto 0 auto;
-            height: 600px;
+            height: 500px;
         }">
  <img src="certificate.png" alt="certificate">
 </div> 
